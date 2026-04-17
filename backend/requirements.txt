@@ -7,3 +7,4 @@ openai
 pinecone
 pypdf
 python-dotenv
+simsimd>=4.4.0
