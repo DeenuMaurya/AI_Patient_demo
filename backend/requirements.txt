@@ -2,9 +2,8 @@ fastapi
 uvicorn
 langchain
 langchain-openai
-langchain-pinecone
+langchain-pinecone>=0.1.3
 openai
 pinecone
 pypdf
 python-dotenv
-simsimd>=4.4.0
